@@ -2,13 +2,15 @@
 > “Uma história sobre humildade científica em modelos de regressão.”  
 > *por Alvaro Riz de Barros (2025)*  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alvaroriz/preco-da-precisao/blob/main/colab/capitulo1.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KL1zX1GEY-m9YB-CgzCzg-OEIgtkFtVH?usp=sharing)  
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
 [![DOI](https://img.shields.io/badge/DOI-10.1234/preco--da--precisao--2025-blue.svg)](https://doi.org/10.1234/preco-da-precisao-2025)  
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3638--159X-green.svg)](https://orcid.org/0000-0003-3638-159X)  
 [![Python](https://img.shields.io/badge/Python-3.12+-yellow.svg)](https://www.python.org/downloads/)  
 
 ---
+
+
 
 ## 🎯 Sobre o livro  
 
@@ -64,6 +66,27 @@ Este primeiro volume explora os fundamentos dos **modelos de regressão**, a imp
 - [Site oficial do autor](https://profalvaro.ia.br/livros)  
 
 💳 *Distribuição internacional via Amazon KDP e Google Books.*  
+
+---
+
+## ✍️ Sobre o autor  
+
+**Alvaro Riz de Barros** (Petrópolis, RJ, 1979) é professor de graduação e pós-graduação nas áreas de **Inteligência Artificial e Ciência de Dados** no **IBMEC** e nos **MBAs da Fundação Getulio Vargas (FGV)**.  
+É doutorando em Engenharia de Defesa no **Instituto Militar de Engenharia (IME)**, mestre em Engenharia de Sistemas pela **Universidade Católica de Petrópolis (UCP)** e pós-graduado em Gestão de Marketing pelo **IBMEC**.  
+
+Atua na integração entre **IA, ética e tomada de decisão**, conectando a pesquisa científica à prática empresarial.  
+
+> “Cada coeficiente conta uma história sobre o mundo —  
+> e cada resíduo, um lembrete de que o real nunca cabe inteiro no modelo.” — *Introdução*
+
+---
+
+## 📖 Como citar  
+
+> **BARROS, Alvaro Riz de.** *O Preço da Precisão — A Saga da Regressão: uma história sobre humildade científica em modelos de regressão.*  
+> 1ª ed. — Rio de Janeiro: Edição do Autor, 2025.  
+> ISBN 000-00-00-00000-0.  
+> DOI: [10.1234/preco-da-precisao-2025](https://doi.org/10.1234/preco-da-precisao-2025)
 
 ---
 
