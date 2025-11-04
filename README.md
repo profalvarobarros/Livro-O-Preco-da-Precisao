@@ -7,7 +7,6 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1234/preco--da--precisao--2025-blue.svg)](https://doi.org/10.1234/preco-da-precisao-2025)  
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3638--159X-green.svg)](https://orcid.org/0000-0003-3638-159X)  
 [![Python](https://img.shields.io/badge/Python-3.12+-yellow.svg)](https://www.python.org/downloads/)  
-[![Powered by Orange Data Mining](https://img.shields.io/badge/Powered%20by-Orange%20Data%20Mining-orange)](https://orangedatamining.com/)  
 
 ---
 
