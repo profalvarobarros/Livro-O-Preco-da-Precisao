@@ -2,10 +2,9 @@
 > “Uma história sobre humildade científica em modelos de regressão.”  
 > *por Alvaro Riz de Barros (2025)*  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KL1zX1GEY-m9YB-CgzCzg-OEIgtkFtVH?usp=sharing)  
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
-[![DOI](https://img.shields.io/badge/DOI-10.1234/preco--da--precisao--2025-blue.svg)](https://doi.org/10.1234/preco-da-precisao-2025)  
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3638--159X-green.svg)](https://orcid.org/0000-0003-3638-159X)  
+<!-- [![DOI](https://img.shields.io/badge/DOI-10.1234/preco--da--precisao--2025-blue.svg)](https://doi.org/10.1234/preco-da-precisao-2025)  -->
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3638--159X-green.svg)](https://orcid.org/0000-0003-3638-159X)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) 
 [![Python](https://img.shields.io/badge/Python-3.12+-yellow.svg)](https://www.python.org/downloads/)  
 
 ---
@@ -47,7 +46,14 @@ Este primeiro volume explora os fundamentos dos **modelos de regressão**, a imp
 
 ---
 
-## 🧭 Parte da trilogia *Carta dos Modelos*  
+## 🧑‍💻 Notebook Colab  
+
+Código completo em Python, disponibilizado no Google Colab.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KL1zX1GEY-m9YB-CgzCzg-OEIgtkFtVH?usp=sharing)  
+---
+
+## 🧭 Trilogia *Carta dos Modelos*  
 
 | Volume | Título | Foco |
 |---------|--------|------|
